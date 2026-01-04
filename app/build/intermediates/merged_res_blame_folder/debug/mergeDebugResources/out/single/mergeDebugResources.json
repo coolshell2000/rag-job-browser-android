@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/mnt/nvme0n1p1/home/bt/.gradle/daemon/8.13/com.example.ragjobbrowser.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "/mnt/nvme0n1p1/home/bt/.gradle/daemon/8.13/com.example.ragjobbrowser.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.ragjobbrowser.app-debug-33:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.ragjobbrowser.app-main-35:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.ragjobbrowser.app-debug-33:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.ragjobbrowser.app-main-35:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.ragjobbrowser.app-debug-33:/xml_backup_rules.xml.flat",
+        "source": "com.example.ragjobbrowser.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.ragjobbrowser.app-debug-33:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.ragjobbrowser.app-main-35:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.ragjobbrowser.app-debug-33:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.ragjobbrowser.app-main-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.ragjobbrowser.app-debug-33:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.ragjobbrowser.app-main-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.ragjobbrowser.app-debug-33:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.ragjobbrowser.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.ragjobbrowser.app-debug-33:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.ragjobbrowser.app-main-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.ragjobbrowser.app-debug-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.ragjobbrowser.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/mnt/nvme0n1p1/home/bt/.gradle/daemon/8.13/com.example.ragjobbrowser.app-debug-33:/layout_item_job.xml.flat",
+        "source": "/mnt/nvme0n1p1/home/bt/.gradle/daemon/8.13/com.example.ragjobbrowser.app-main-35:/layout/item_job.xml"
+    },
+    {
+        "merged": "/mnt/nvme0n1p1/home/bt/.gradle/daemon/8.13/com.example.ragjobbrowser.app-debug-33:/layout_activity_job_detail.xml.flat",
+        "source": "/mnt/nvme0n1p1/home/bt/.gradle/daemon/8.13/com.example.ragjobbrowser.app-main-35:/layout/activity_job_detail.xml"
+    },
+    {
+        "merged": "com.example.ragjobbrowser.app-debug-33:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.ragjobbrowser.app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.ragjobbrowser.app-debug-33:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.ragjobbrowser.app-main-35:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.ragjobbrowser.app-debug-33:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.ragjobbrowser.app-main-35:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

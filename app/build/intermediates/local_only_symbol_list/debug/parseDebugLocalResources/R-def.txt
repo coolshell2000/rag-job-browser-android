@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+id applyJobButton
+id companyTextView
+id descriptionTextView
+id detailCompanyTextView
+id detailDateTextView
+id detailDescriptionTextView
+id detailLocationTextView
+id detailSalaryTextView
+id detailTitleTextView
+id locationTextView
+id recyclerView
+id searchView
+id titleTextView
+id viewJobButton
+layout activity_job_detail
+layout activity_main
+layout item_job
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.RagJobBrowser
+xml backup_rules
+xml data_extraction_rules
